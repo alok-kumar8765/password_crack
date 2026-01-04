@@ -358,6 +358,5 @@ This project demonstrates:
 
 ### ⭐ If you find this helpful, consider starring the repository!
 
-```
 
 ---
