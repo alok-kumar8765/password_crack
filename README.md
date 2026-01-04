@@ -240,7 +240,6 @@ You are free to use, modify, and distribute it **for ethical purposes only**.
 
 ### 📊 Mermaid Flow Diagram (GitHub-supported)
 
-> GitHub will automatically render this diagram.
 
 ```mermaid
 flowchart TD
